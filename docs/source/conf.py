@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'SpatialGlue'
-copyright = '2023, Yahui Long'
-author = 'Yahui Long'
+project = 'NicheTrans'
+copyright = '2024, Zhikang Wang'
+author = 'Zhikang Wang'
 
 release = '0.1'
 version = '0.1.0'
