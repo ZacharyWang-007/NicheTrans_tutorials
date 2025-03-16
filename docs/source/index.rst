@@ -8,12 +8,20 @@ NicheTrans: Spatial-aware Cross-omics Translation
    :caption: Contents:
    
    Installation
-   SMA
-   Tutorial 1_data integration for human lymph node (10x Genomics Visium, in-house data)
-   Tutorial 2_data integration for mouse thymus Stereo-CITE-seq
-   Tutorial 3_data integration for mouse spleen SPOTS
-   Tutorial 4_data integration for mouse brain Spatial-epigenome-transcriptome
-   Tutorial 5_data integration for triplet omics data (Simulation)
+   Tutorial 1: Data pre-processing for SMA data
+   Tutorial 2: Data pre-processing for STARmap_PLUS data
+   Tutorial 3: Train NicheTrans on SMA data
+   Tutorial 3: Visualize results
+   Tutorial 4: Train NicheTrans* on SMA data
+   Tutorial 4: Visualize results
+   Tutorial 5: Train NicheTrans on STARmap PLUS data
+   Tutorial 5: Visualize results
+   Tutorial 6: Train NicheTrans* on STARmap PLUS data
+   Tutorial 6: Visualize results
+   Tutorial 7: Train NicheTrans on 10x Xenium data
+   Tutorial 7: Visualize results
+   Tutorial 8: Train NicheTrans on human lymph node data
+   Tutorial 8: Visualize results
 
 .. image:: ../Figures/NicheTrans.png
    :width: 1600 
