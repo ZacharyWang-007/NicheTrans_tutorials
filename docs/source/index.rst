@@ -8,7 +8,7 @@ NicheTrans: Spatial-aware Cross-omics Translation
    :caption: Contents:
    
    Installation
-   SMA
+   Data pre-processing for SMA data
    Tutorial 1_data integration for human lymph node (10x Genomics Visium, in-house data)
    Tutorial 2_data integration for mouse thymus Stereo-CITE-seq
    Tutorial 3_data integration for mouse spleen SPOTS
